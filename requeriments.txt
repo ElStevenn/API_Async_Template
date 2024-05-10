@@ -1,0 +1,4 @@
+Faker
+requests
+aiofiles
+phonenumbers
