@@ -2,3 +2,4 @@ Faker
 requests
 aiofiles
 phonenumbers
+schedule
